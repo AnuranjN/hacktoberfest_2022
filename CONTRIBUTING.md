@@ -2700,4 +2700,4 @@
 
 - Place: Kannur, Kerala, India
 - Bio: Front-end Dev, Gearhead, CSE Student
-- GitHub: [AnuranjN](https://github.com/AnuranjN))
+- GitHub: [AnuranjN](https://github.com/AnuranjN)
