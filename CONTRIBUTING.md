@@ -2695,3 +2695,9 @@
 - Place: Philadelphia, PA, USA
 - Bio: Full-stack developer, horticulturist, baker
 - GitHub: [Skeeler79](https://github.com/skeeler79)
+
+#### Name: [Anuranj N](https://github.com/AnuranjN))
+
+- Place: Kannur, Kerala, India
+- Bio: Front-end Dev, Gearhead, CSE Student
+- GitHub: [AnuranjN](https://github.com/AnuranjN))
